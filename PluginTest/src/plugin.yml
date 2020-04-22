@@ -1,0 +1,10 @@
+name: PluginTest
+main: us.beetlejuice.PluginTest
+version : 1.0
+api-version : 1.13
+
+
+commands:
+   TestCommand:
+      description : requires op, Enchants your held item with Efficiency to the level specified. Defaults to Eff. V.
+      usage: /testcommand level

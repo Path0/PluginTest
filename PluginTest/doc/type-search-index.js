@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"us.beetlejuice","l":"PluginTest"},{"p":"us.beetlejuice.commands","l":"TestCommand"},{"p":"us.beetlejuice.functions","l":"ToolExp"},{"p":"us.beetlejuice","l":"Util"}]
